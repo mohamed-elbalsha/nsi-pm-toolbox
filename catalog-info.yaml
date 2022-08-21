@@ -2,11 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: nsi-pm-toolbox
-  title: Sample Service # optional, human readable component name
-  description: My first Backstage catalog item.
-  annotations:
-    github.com/project-slug: nsi-pm-toolbox
+  title: NSI PM Tool
+  description:  NSI PM Tool catalog item.
+  tags:
+    - go
+    - website
 spec:
   type: service
+  lifecycle: production
   owner: user:mohamed-elbalsha
-  lifecycle: experimental
