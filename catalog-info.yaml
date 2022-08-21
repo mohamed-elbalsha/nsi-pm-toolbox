@@ -8,6 +8,6 @@ metadata:
     - go
     - website
 spec:
-  type: service
+  type: website
   lifecycle: production
   owner: user:mohamed-elbalsha
