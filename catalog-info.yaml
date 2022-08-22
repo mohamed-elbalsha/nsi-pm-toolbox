@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: nsi-pm-toolbox
   title: NSI PM Tool
-  description:  NSI PM Tool catalog item.
+  description:  NSI PM Tool catalog items.
   tags:
     - go
     - website
